@@ -28,3 +28,7 @@ And run with:
 ```
 flutter run -d macos
 ```
+
+## Screenshot
+
+![Screenshot](extras/images/screenshot-macos.png)
