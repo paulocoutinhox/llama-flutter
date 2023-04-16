@@ -1,0 +1,1 @@
+int llama_main(int argc, char ** argv);
